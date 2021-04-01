@@ -308,12 +308,12 @@ def render_room(vida, room_name, player, minutos, segundos):
     |                          \____|_| |_|_| \_|_| |_|____/  \_/ \____/(_)                            |
     |                                                                                                  |
     |                                                                                                  |
-    |             TIEMPO: {minutos}:{segundos}                                     VIDAS: {vidas}                         |
+    |             TIEMPO: {minutos}:{segundos}                                     VIDAS: {vidas}                         
     |                                                                                                  |
     |                                                                                                  |
     |                                                                                                  |
-    |                                 JUGADOR: {player.nombre}                                         |
-    |                                                                                                  |
+    |                                 JUGADOR: {player.nombre}                                         
+    |                                  AVATAR: {player.avatar}                                                               
     |                                                                                                  |
     |                                                                                                  |
     |                                                                                                  |
