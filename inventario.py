@@ -14,7 +14,7 @@ class Inventory:
                 i = 'contraseña: ' + self.contrasena
                 self.items[i] = False
             else:
-                self.items[i] = True
+                self.items[i] = False
 
         
 
