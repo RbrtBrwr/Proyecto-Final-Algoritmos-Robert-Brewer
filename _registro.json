@@ -1,0 +1,98 @@
+[
+    {
+        "username": "ebert",
+        "password": "oluc",
+        "edad": 23,
+        "avatar": "El Saman",
+        "partidas": [
+            {
+                "tiempo": 110,
+                "vidas": 3,
+                "pistas": 1
+            }
+        ]
+    },
+    {
+        "username": "juan",
+        "password": "pepas",
+        "edad": 23,
+        "avatar": "Julio",
+        "partidas": [
+            {
+                "tiempo": 200,
+                "vidas": 3,
+                "pistas": 1
+            }
+        ]
+    },
+    {
+        "username": "Miguel",
+        "password": "chiguire",
+        "edad": 12,
+        "avatar": "Un Sharpie",
+        "partidas": [
+            {
+                "tiempo": 220,
+                "vidas": 2,
+                "pistas": 11
+            }
+        ]
+    },
+    {
+        "username": "pedro",
+        "password": "chiguire",
+        "edad": 12,
+        "avatar": "Un Sharpie",
+        "partidas": [
+            {
+                "tiempo": 290,
+                "vidas": 2,
+                "pistas": 11
+            }
+        ]
+    },
+    {
+        "username": "jorge",
+        "password": "chiguire",
+        "edad": 12,
+        "avatar": "Un Sharpie",
+        "partidas": [
+            {
+                "tiempo": 1111,
+                "vidas": 2,
+                "pistas": 11
+            }
+        ]
+    },
+    {
+        "username": "olga",
+        "password": "asd",
+        "edad": 23,
+        "avatar": "Hipervinculo",
+        "partidas": [
+            {
+                "tiempo": 120,
+                "vidas": 3,
+                "pistas": 3
+            }
+        ]
+    },
+    {
+        "username": "robert",
+        "password": "onomatopeya",
+        "edad": 23,
+        "avatar": "Hipervinculo",
+        "partidas": [
+            {
+                "tiempo": 120,
+                "vidas": 3,
+                "pistas": 3
+            },
+            {
+                "tiempo": 115,
+                "vidas": 1.0,
+                "pistas": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+
+{
+    "avatares": [
+        "El Saman",
+        "Scharifker",
+        "Ghandi",
+        "Joe Exotic",
+        "Un Sharpie",
+        "Mario Verde",
+        "Hipervinculo",
+        "chiguire"
+    ],
+    "dificultades": {
+        "facil" : {
+            "vidas": 5,
+            "tiempo": 10,
+            "pistas": 5
+        },
+        "media" : {
+            "vidas": 3,
+            "tiempo": 8,
+            "pistas": 3
+        },
+        "dificil" : {
+            "vidas": 1,
+            "tiempo": 5,
+            "pistas": 2
+        }
+    }
+}
