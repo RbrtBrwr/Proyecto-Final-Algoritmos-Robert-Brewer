@@ -114,6 +114,9 @@ class Ahorcado(Game):
         self.dibujitos_print(palabra_nueva, x)
 
         while True:
+            if '_' not in palabra:
+                return self.ganador()
+            
             print(pregunta)
 
             while True:
