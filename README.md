@@ -1,6 +1,7 @@
 # Proyecto-Final-Algoritmos-Robert-Brewer
 
 Bienvenido a Escapamet
+Para iniciar el juego corre el archivo main.py
 Para jugar sigue las instrucciones dadas en la pantalla de inicio, si quieres ver estadisticas de los jugadores ingresa 'estadisticas' en la primera pantalla
 
 Para ganar el juego dbes interactuar con los objetos y superar los desafios que te dan, algunos objetos te pediran algun requisito para poder interactuar, los cuales recibiras
